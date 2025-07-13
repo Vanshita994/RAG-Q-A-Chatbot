@@ -53,7 +53,7 @@ st.markdown(
 
 # Streamlit App
 def main():
-    st.title("RAG Based  Document Q&A ChatBot      Created by Sumit Malav ")
+    st.title("RAG Based  Document Q&A ChatBot      Created by Vanshita Sisodia ")
 
     # Sidebar for file uploads
     st.sidebar.header("Upload Documents")
