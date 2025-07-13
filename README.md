@@ -41,7 +41,7 @@ This project is a **Retrieval-Augmented Generation (RAG)**-based chatbot built w
 ---
 
 
-#### 🔗 Live Demo: https://mflpjlvn8eatjfub5ch9hh.streamlit.app/
+#### 🔗 Live Demo: 
 
 ## 💻 **Installation and Setup**
 
